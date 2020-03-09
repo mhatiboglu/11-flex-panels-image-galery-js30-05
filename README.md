@@ -1,1 +1,1 @@
-# 11_flex-panels-image-galery_js30_05
+# 11-flex-panels-image-galery-js30-05
